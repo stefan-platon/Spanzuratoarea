@@ -1,0 +1,36 @@
+D:\12D\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.exe.config
+D:\12D\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.exe
+D:\12D\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.pdb
+D:\12D\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.csprojResolveAssemblyReference.cache
+D:\12D\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.Form1.resources
+D:\12D\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.Properties.Resources.resources
+D:\12D\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.csproj.GenerateResource.Cache
+D:\12D\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.exe
+D:\12D\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.pdb
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.exe.config
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.exe
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.pdb
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.exe
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.pdb
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.Form1.resources
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.Properties.Resources.resources
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.csproj.GenerateResource.Cache
+D:\12D\Stefan\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.exe.config
+D:\12D\Stefan\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.exe
+D:\12D\Stefan\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.pdb
+D:\12D\Stefan\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.exe
+D:\12D\Stefan\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.pdb
+D:\12D\Stefan\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.csprojResolveAssemblyReference.cache
+D:\12D\Stefan\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.Form1.resources
+D:\12D\Stefan\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.Properties.Resources.resources
+D:\12D\Stefan\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.csproj.GenerateResource.Cache
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.csprojResolveAssemblyReference.cache
+E:\Informatica\Visual Studio Workspace\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.exe.config
+E:\Informatica\Visual Studio Workspace\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.exe
+E:\Informatica\Visual Studio Workspace\Spanzuratoarea\Spanzuratoarea\bin\Debug\Spanzuratoarea.pdb
+E:\Informatica\Visual Studio Workspace\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.Form1.resources
+E:\Informatica\Visual Studio Workspace\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.Properties.Resources.resources
+E:\Informatica\Visual Studio Workspace\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.csproj.GenerateResource.cache
+E:\Informatica\Visual Studio Workspace\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.csproj.CoreCompileInputs.cache
+E:\Informatica\Visual Studio Workspace\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.exe
+E:\Informatica\Visual Studio Workspace\Spanzuratoarea\Spanzuratoarea\obj\Debug\Spanzuratoarea.pdb
