@@ -1,2 +1,2 @@
 # Spanzuratoarea
-Implementare vizuala a jocului clasic de spanzuratoarea.
+Implementare vizuala si functionala a jocului clasic de spanzuratoarea.
